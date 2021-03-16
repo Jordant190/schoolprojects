@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1556739923 source:/Volumes/StudentShared/ComputerScience/Malita_Student_Shared/CS112MalitaS19Shared/jtrombly/FacultyDatabaseProject/main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"teacher.h"
+	<algorithm>
+
+1556752170 >
+
+1556739922 /Volumes/StudentShared/ComputerScience/Malita_Student_Shared/CS112MalitaS19Shared/jtrombly/FacultyDatabaseProject/teacher.h
+
+1556752170 source:s:\computerscience\malita_student_shared\cs112malitas19shared\jtrombly\facultydatabaseproject\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"teacher.h"
+	<algorithm>
+
+1556743522 s:\computerscience\malita_student_shared\cs112malitas19shared\jtrombly\facultydatabaseproject\teacher.h
+
+1556937762 source:/Volumes/StudentShared/ComputerScience/Malita_Student_Shared/CS112MalitaS19Shared/jtrombly/FacultyDatabaseProject/main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"teacher.h"
+	<algorithm>
+
+1556739922 /Volumes/StudentShared/ComputerScience/Malita_Student_Shared/CS112MalitaS19Shared/jtrombly/FacultyDatabaseProject/teacher.h
+
+1557089078 source:/Users/jordantrombly/Desktop/FacultyDatabaseProject/main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"teacher.h"
+	<algorithm>
+
+1556739922 /Users/jordantrombly/Desktop/FacultyDatabaseProject/teacher.h
+
