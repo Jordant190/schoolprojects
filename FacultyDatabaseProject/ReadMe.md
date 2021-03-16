@@ -3,4 +3,4 @@
 
 'cd FacultyDatabaseProject'
 
-'./a.out' 
+> use c++ compiler, then run binary
